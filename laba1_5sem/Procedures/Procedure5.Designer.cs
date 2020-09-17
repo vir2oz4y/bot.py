@@ -83,6 +83,7 @@
             this.Controls.Add(this.listBox1);
             this.Name = "Procedure5";
             this.Text = "Procedure5";
+            this.Load += new System.EventHandler(this.Procedure5_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
