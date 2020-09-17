@@ -57,6 +57,10 @@ namespace laba1_5sem
         private void Button1_Click(object sender, EventArgs e)
         {
             OnDataGrid();
+
+
+
+
         }
     }
 }
